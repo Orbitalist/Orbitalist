@@ -1,4 +1,4 @@
-## Hi there 👋
+## Orbital 👋
 
 <!--
 **Orbitalist/Orbitalist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
